@@ -1,0 +1,16 @@
+F:\Desktop\dotNET\C#\7.8\lecture6\lecture6\bin\Debug\net5.0\lecture6.exe
+F:\Desktop\dotNET\C#\7.8\lecture6\lecture6\bin\Debug\net5.0\lecture6.deps.json
+F:\Desktop\dotNET\C#\7.8\lecture6\lecture6\bin\Debug\net5.0\lecture6.runtimeconfig.json
+F:\Desktop\dotNET\C#\7.8\lecture6\lecture6\bin\Debug\net5.0\lecture6.runtimeconfig.dev.json
+F:\Desktop\dotNET\C#\7.8\lecture6\lecture6\bin\Debug\net5.0\lecture6.dll
+F:\Desktop\dotNET\C#\7.8\lecture6\lecture6\bin\Debug\net5.0\ref\lecture6.dll
+F:\Desktop\dotNET\C#\7.8\lecture6\lecture6\bin\Debug\net5.0\lecture6.pdb
+F:\Desktop\dotNET\C#\7.8\lecture6\lecture6\obj\Debug\net5.0\lecture6.csproj.AssemblyReference.cache
+F:\Desktop\dotNET\C#\7.8\lecture6\lecture6\obj\Debug\net5.0\lecture6.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\dotNET\C#\7.8\lecture6\lecture6\obj\Debug\net5.0\lecture6.AssemblyInfoInputs.cache
+F:\Desktop\dotNET\C#\7.8\lecture6\lecture6\obj\Debug\net5.0\lecture6.AssemblyInfo.cs
+F:\Desktop\dotNET\C#\7.8\lecture6\lecture6\obj\Debug\net5.0\lecture6.csproj.CoreCompileInputs.cache
+F:\Desktop\dotNET\C#\7.8\lecture6\lecture6\obj\Debug\net5.0\lecture6.dll
+F:\Desktop\dotNET\C#\7.8\lecture6\lecture6\obj\Debug\net5.0\ref\lecture6.dll
+F:\Desktop\dotNET\C#\7.8\lecture6\lecture6\obj\Debug\net5.0\lecture6.pdb
+F:\Desktop\dotNET\C#\7.8\lecture6\lecture6\obj\Debug\net5.0\lecture6.genruntimeconfig.cache
