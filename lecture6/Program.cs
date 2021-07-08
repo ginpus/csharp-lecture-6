@@ -111,6 +111,7 @@ namespace lecture6
             Console.WriteLine((int)WeekDays.Saturday);
 
             var weekDayInput = Console.ReadLine();
+            //grazina Enum tipo kintamaji, kuris yra WeekDays tipo
             var isSuccessfull = Enum.TryParse(typeof(WeekDays), weekDayInput, true, out var weekDay);
 
             Console.WriteLine(weekDay);
